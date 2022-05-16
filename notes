@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet"href="home/anotherCSS.css">
+        <script defer src="main.js"></script>
+    <title> Hello, World!</title>
+   
+
+</head>
+<body>
+
+    <h1> Hello, World!</h1>
+    
+</body>
+</html>
+
+<!-- ce face tagu link: aduce si fisierul respectiv 
+selectat in browser -->
+
+<!-- bine maintainuit care ajuta la interogarea mai multor functii-->
+
